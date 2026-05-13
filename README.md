@@ -1,7 +1,5 @@
 # AWS Networking Lab — Multi-VPC Architecture
 
-# Student name: Maxim Raikinakh
-
 > **Project 1 — Full Step-by-Step Guide**
 
 A hands-on AWS networking lab where you build a complete multi-VPC enterprise network from scratch — including Transit Gateway, NAT Gateway, EC2 Connect Endpoints, and Transit Gateway Peering.
